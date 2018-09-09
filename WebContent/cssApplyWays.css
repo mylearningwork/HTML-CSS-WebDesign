@@ -1,0 +1,23 @@
+p {
+	color: DodgerBlue;
+	padding:40px;
+	padding-bottom:30px;
+	padding-top:10px;
+	padding-left:100px;
+	
+	border-width:5px;
+	bordor-top-color:green;
+	border-style:dotted;
+	border-bottom-color:rgb(150,150,150);
+	
+	margin:10px;
+	margin-top:20px;
+}
+
+body {
+	background-image: url(Desert.jpg);
+	/* background-repeat:repeat; */
+	background-repeat: no-repeat;
+	background-position: 10px 60px;
+	background-position: 50% 30px;
+}
